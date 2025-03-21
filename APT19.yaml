@@ -1,0 +1,22 @@
+id: aa96c70a-8283-44ae-930a-ff4da8d26682
+name: APT19
+description: APT19 is a Chinese-based threat group that has targeted a variety of industries, including defense, finance, energy, pharmaceutical, telecommunications, high tech, education, manufacturing, and legal services. In 2017, a phishing campaign was used to target seven law and investment firms. Some analysts track APT19 and Deep Panda as the same group, but it is unclear from open source information if the groups are the same.
+objective: 495a9828-cab1-44dd-a0ca-66e58177d8cc
+atomic_ordering:
+- 1afaec09315ab71fdfb167175e8a019a
+- e7d023dfcc77f4b701b6cdce79e9c3c2
+- b6f545ef-f802-4537-b59d-2cb19831c8ed
+- 7d8ee68f0e9731db82964f558f614608
+- 4370001012f5f0df001269627b4737e9
+- 2bf75f949823305d3ea815c8e94e9ee3
+- f1222384fe40cc71e7dea9d182014eaf
+- 58ef43e598c111afc81ba9a22c6af108
+- 8ef0e743e8f073af665288aaf631a71a
+- 89a4fca013d3d39fc4effb1f6c8a8d74
+- d68bca253560877e22685a3dd3ff4dd4
+- c877c5caf390407669cdbfdc5f69d3a6
+- 23000b943f18392d477ad7a1cad6586c
+- 50598e403dbf17cf341e4e08a9c5b0d1
+- ccdb8caf-c69e-424b-b930-551969450c57
+- 373d28654268ba4613372df3904eb11f
+- d5c3d4d3a33600ba963db53932e355f7
